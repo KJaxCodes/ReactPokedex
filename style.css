@@ -1,0 +1,21 @@
+    .pokedex {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+
+    }
+
+    .pokecard {
+        border: 1px solid #ddd;
+        padding: 10px;
+        border-radius: 10px;
+        text-align: center;
+        background-color: lightgray;
+        color: black;
+        width: 150px;
+    }
+
+    .title {
+        color: blue;
+    }
